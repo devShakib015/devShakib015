@@ -72,7 +72,7 @@ contact     : devshakib015@gmail.com
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=devShakib015&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=09090E&title_color=7C6FFF&icon_color=06D6DB&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=devShakib015&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=09090E&title_color=7C6FFF&icon_color=06D6DB&text_color=ffffff"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devShakib015&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=09090E&title_color=7C6FFF&text_color=ffffff"/>
 
 </div>
@@ -89,7 +89,15 @@ contact     : devshakib015@gmail.com
 
 <div align="center">
 
-<img width="90%" src="https://github-profile-trophy.vercel.app/?username=devShakib015&theme=tokyonight&no-frame=true&no-bg=true&column=7&rank=SSS,SS,S,AAA,AA,A,B"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devShakib015&theme=tokyonight" width="90%"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=devShakib015&theme=tokyonight" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=devShakib015&theme=tokyonight" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=devShakib015&theme=tokyonight" width="32%"/>
 
 </div>
 
