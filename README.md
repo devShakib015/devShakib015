@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://pub.dev/publishers/jumyn.com/packages"><img alt="pub.dev packages" src="https://img.shields.io/badge/pub.dev-11%20packages%20%C2%B7%20all%20160%2F160-3DDC97?style=flat-square&labelColor=060B0A"></a>
+  <a href="https://pub.dev/publishers/jumyn.com/packages"><img alt="pub.dev packages" src="https://img.shields.io/badge/pub.dev-12%20packages%20%C2%B7%20all%20160%2F160-3DDC97?style=flat-square&labelColor=060B0A"></a>
   <a href="https://devshakib.jumyn.com/apps"><img alt="apps" src="https://img.shields.io/badge/apps-free%20%26%20open%20source-2CC5C0?style=flat-square&labelColor=060B0A"></a>
   <a href="https://devshakib.jumyn.com/blog"><img alt="writing" src="https://img.shields.io/badge/writing-142%20posts-4FC3E8?style=flat-square&labelColor=060B0A"></a>
 </p>
@@ -26,12 +26,13 @@ bits you can check.
 
 ## Packages
 
-Eleven on pub.dev under the [jumyn.com](https://pub.dev/publishers/jumyn.com/packages)
-publisher. **All eleven score 160/160 pub points** — that is pub.dev's own
+Twelve on pub.dev under the [jumyn.com](https://pub.dev/publishers/jumyn.com/packages)
+publisher. **All twelve score 160/160 pub points** — that is pub.dev's own
 analyser, not a number I chose. MIT, no tracking, no paid tier.
 
 | Package | What it does | Platforms |
 | --- | --- | --- |
+| [woo_client](https://pub.dev/packages/woo_client) | WooCommerce from Dart — the keyless Store API for carts and checkout, plus the full admin REST API | all six |
 | [apple_foundation_models](https://pub.dev/packages/apple_foundation_models) | Apple's on-device LLM from Flutter — streaming, tool calling, schema-constrained output | iOS · macOS |
 | [loading_kit](https://pub.dev/packages/loading_kit) | A blocking overlay that never flickers: reveal delay, minimum hold, reference counting | all six |
 | [apple_intelligence](https://pub.dev/packages/apple_intelligence) | On-device image generation streamed as it is made, plus Writing Tools and Genmoji | iOS · macOS |
@@ -44,7 +45,7 @@ analyser, not a number I chose. MIT, no tracking, no paid tier.
 | [ar_quick_look](https://pub.dev/packages/ar_quick_look) | Put a USDZ model in the room using Apple's own AR viewer | iOS |
 | [cross_tab](https://pub.dev/packages/cross_tab) | Coordinate browser tabs: typed messages, presence, and electing exactly one to work | all six |
 
-Source for all eleven: **[flutter_packages](https://github.com/devShakib015/flutter_packages)**.
+Source for all twelve: **[flutter_packages](https://github.com/devShakib015/flutter_packages)**.
 
 ---
 
