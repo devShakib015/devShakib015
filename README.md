@@ -1,180 +1,105 @@
-<div align="center">
+<h1 align="center">K M Shahriar Hossain</h1>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:09090E,50:7C6FFF,100:06D6DB&height=200&section=header&text=Hossain%20K%20M%20Shahriar&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=CTO%20%40%20Shpper%20%E2%80%A2%20Flutter%20Expert%20%E2%80%A2%20Cloud%20Architect%20%E2%80%A2%20AI%20Builder&descAlignY=55&descSize=17&descColor=B0A8FF"/>
+<p align="center">
+  <b>CTO at Shpper</b> · Flutter, Firebase, Cloud &amp; AI · Dubai
+  <br/>
+  <a href="https://devshakib.jumyn.com">devshakib.jumyn.com</a> ·
+  <a href="https://pub.dev/publishers/jumyn.com/packages">pub.dev/jumyn.com</a> ·
+  <a href="mailto:devshakib015@gmail.com">devshakib015@gmail.com</a>
+</p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1200&color=7C6FFF&center=true&vCenter=true&random=false&width=700&lines=Flutter+%26+Dart+Expert+%F0%9F%9A%80;Cloud+Architect+%7C+AWS+%2B+GCP+%2B+Azure;AI+%26+ML+Integration+Specialist+%F0%9F%A4%96;CTO+%40+Shpper+%E2%80%94+Dubai+%F0%9F%87%A6%F0%9F%87%AA;Building+the+Future+of+Logistics+%F0%9F%93%A6)](https://git.io/typing-svg)
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=devShakib015&label=Profile+Views&color=7C6FFF&style=for-the-badge)
-[![GitHub followers](https://img.shields.io/github/followers/devShakib015?label=Followers&style=for-the-badge&color=7C6FFF)](https://github.com/devShakib015?tab=followers)
-[![GitHub Stars](https://img.shields.io/github/stars/devShakib015?label=Total%20Stars&style=for-the-badge&color=06D6DB)](https://github.com/devShakib015)
-
-</div>
-
----
-
-## 👨‍💻  About Me
-
-```yaml
-name        : Hossain K M Shahriar
-alias       : devShakib
-role        : Chief Technology Officer @ Shpper (Dubai 🇦🇪)
-experience  : 6+ years in software engineering
-specialty   : Flutter · Firebase · Cloud · AI · DevOps
-focus       : Cross-platform apps · Scalable systems · Team leadership
-currently   : Scaling Shpper’s logistics & e-commerce platform
-education   : B.Sc. Computer Science — YZU, China (2021)
-contact     : devshakib015@gmail.com
-```
-
-<div align="center">
-
-|  |  |
-|:---|:---|
-| 🚀 **6+ years** shipping production Flutter apps | 🏗️ Enterprise-scale system architecture |
-| 👥 Led distributed teams of **20+ engineers** | ⚡ **15%** faster delivery via CI/CD |
-| 📊 **20%** ops efficiency gain with analytics | 🔧 **30%** system performance optimization |
-
-</div>
+<p align="center">
+  <a href="https://pub.dev/publishers/jumyn.com/packages"><img alt="pub.dev packages" src="https://img.shields.io/badge/pub.dev-11%20packages%20%C2%B7%20all%20160%2F160-3DDC97?style=flat-square&labelColor=060B0A"></a>
+  <a href="https://devshakib.jumyn.com/apps"><img alt="apps" src="https://img.shields.io/badge/apps-free%20%26%20open%20source-2CC5C0?style=flat-square&labelColor=060B0A"></a>
+  <a href="https://devshakib.jumyn.com/blog"><img alt="writing" src="https://img.shields.io/badge/writing-142%20posts-4FC3E8?style=flat-square&labelColor=060B0A"></a>
+</p>
 
 ---
 
-## 🛠️  Tech Arsenal
-
-<div align="center">
-
-**📱 Mobile & Cross-Platform**
-
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,androidstudio,swift,kotlin)](https://skillicons.dev)
-
-**☁️ Cloud & DevOps**
-
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,githubactions)](https://skillicons.dev)
-
-**🤖 AI & Backend**
-
-[![My Skills](https://skillicons.dev/icons?i=firebase,python,django,graphql,js)](https://skillicons.dev)
-
-**🗄️ Databases**
-
-[![My Skills](https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis)](https://skillicons.dev)
-
-**🔧 Tools**
-
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,linux,postman)](https://skillicons.dev)
-
-</div>
+I build production Flutter apps, publish the packages I wish had existed while
+building them, and write up the parts that are genuinely awkward. Most of what
+follows is downloadable, readable, or scored by somebody other than me — that
+is deliberate. A portfolio is its author describing themselves; these are the
+bits you can check.
 
 ---
 
-## 📊  GitHub Stats
+## Packages
 
-<div align="center">
+Eleven on pub.dev under the [jumyn.com](https://pub.dev/publishers/jumyn.com/packages)
+publisher. **All eleven score 160/160 pub points** — that is pub.dev's own
+analyser, not a number I chose. MIT, no tracking, no paid tier.
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=devShakib015&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=09090E&title_color=7C6FFF&icon_color=06D6DB&text_color=ffffff"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devShakib015&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=09090E&title_color=7C6FFF&text_color=ffffff"/>
+| Package | What it does | Platforms |
+| --- | --- | --- |
+| [apple_foundation_models](https://pub.dev/packages/apple_foundation_models) | Apple's on-device LLM from Flutter — streaming, tool calling, schema-constrained output | iOS · macOS |
+| [loading_kit](https://pub.dev/packages/loading_kit) | A blocking overlay that never flickers: reveal delay, minimum hold, reference counting | all six |
+| [apple_intelligence](https://pub.dev/packages/apple_intelligence) | On-device image generation streamed as it is made, plus Writing Tools and Genmoji | iOS · macOS |
+| [fit_text](https://pub.dev/packages/fit_text) | Text that shrinks to fit — works inside `Table` and `IntrinsicHeight`, where `LayoutBuilder` throws | all six |
+| [vitals](https://pub.dev/packages/vitals) | Apple Health and Health Connect, typed. Empty buckets report `null`, never `0` | iOS · Android |
+| [anchored_list](https://pub.dev/packages/anchored_list) | Jump to any index in a lazy list in constant time, and hold your place | all six |
+| [masonry_kit](https://pub.dev/packages/masonry_kit) | Masonry grids as slivers, so several can share one `CustomScrollView` | all six |
+| [file_system_access](https://pub.dev/packages/file_system_access) | Real files on Flutter Web — save in place instead of downloading a copy | all six |
+| [roomplan](https://pub.dev/packages/roomplan) | Scan a room with RoomPlan; get walls, doors and furniture with real dimensions | iOS |
+| [ar_quick_look](https://pub.dev/packages/ar_quick_look) | Put a USDZ model in the room using Apple's own AR viewer | iOS |
+| [cross_tab](https://pub.dev/packages/cross_tab) | Coordinate browser tabs: typed messages, presence, and electing exactly one to work | all six |
 
-</div>
-
-<div align="center">
-
-<img width="88%" src="https://github-readme-streak-stats.herokuapp.com?user=devShakib015&theme=tokyonight&hide_border=true&background=09090E&stroke=7C6FFF&ring=7C6FFF&fire=06D6DB&currStreakLabel=06D6DB&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888"/>
-
-</div>
-
----
-
-## 🏆  Achievements
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devShakib015&theme=tokyonight" width="90%"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=devShakib015&theme=tokyonight" width="32%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=devShakib015&theme=tokyonight" width="32%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=devShakib015&theme=tokyonight" width="32%"/>
-
-</div>
+Source for all eleven: **[flutter_packages](https://github.com/devShakib015/flutter_packages)**.
 
 ---
 
-## 🚀  What I Build at Shpper
+## Apps you can actually download
 
-<table>
-<tr>
-<td width="50%">
+| App | Platform | What it is |
+| --- | --- | --- |
+| **[Helm](https://github.com/devShakib015/helm)** | macOS | Fifteen native tools in one window — storage cleaner with a treemap explorer, duplicate finder, system monitors with 24h history, clipboard manager |
+| **[Mise](https://github.com/devShakib015/mise)** | macOS | A whole restaurant on one Mac: till, kitchen display, QR table ordering. Self-hosted and fully offline |
+| **[Sonar](https://github.com/devShakib015/sonar)** | macOS | Network toolkit — discover every device, scan ports, analyse Wi-Fi, watch trends over seven days |
+| **[ShopDesk](https://github.com/devShakib015/BusinessMonitoringApp)** | Windows | Offline point-of-sale: barcode selling, stock as a ledger, customer credit, thermal receipts |
 
-### 🏗️ Architecture & Engineering
-- Design **enterprise-grade** microservice architectures
-- Build **cross-platform** Flutter apps (Android · iOS · Web)
-- Integrate **AI/ML** pipelines for intelligent logistics
-- Architect **real-time** data systems with Firebase & GCP
-
-</td>
-<td width="50%">
-
-### 👥 Leadership & Strategy
-- Lead **20+ engineers** across global time zones
-- Drive **technical roadmap** aligned with business goals
-- Implement **CI/CD** pipelines for zero-downtime deploys
-- Mentor developers & enforce **code quality standards**
-
-</td>
-</tr>
-</table>
+All MIT. No account, no telemetry, no subscription.
 
 ---
 
-## 📈  Contribution Activity
+## Also on the site
 
-<div align="center">
+**98 browser tools** and **32 games** that run entirely client-side — nothing is
+uploaded, and they work with the network off. **142 posts** on Flutter,
+Firebase, Cloud and AI.
 
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=devShakib015&bg_color=09090E&color=7C6FFF&line=06D6DB&point=ffffff&area=true&hide_border=true&area_color=7C6FFF20"/>
-
-</div>
-
----
-
-## 🤝  Connect With Me
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-7C6FFF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://devshakib015.github.io)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devshakib015@gmail.com)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/venomShakib)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=+8801710265421)
-[![Messenger](https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white)](https://m.me/venomShakib)
-
-</div>
+→ [devshakib.jumyn.com](https://devshakib.jumyn.com)
 
 ---
 
-<div align="center">
+## What I work with
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" width="90%"/>
-
-</div>
-
+**Mobile** Flutter · Dart · Swift · Kotlin — six platforms from one codebase
+**Backend** Firebase · Firestore · Python · Django · Node · PocketBase · REST &amp; GraphQL
+**Cloud** GCP · AWS · Azure · Docker · GitHub Actions
+**AI** On-device models (Apple Foundation Models, Apple Intelligence), LLM integration, RAG
 
 ---
 
-## 🐍  My Contributions
+## A few things I believe about software
 
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devShakib015/devShakib015/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devShakib015/devShakib015/output/github-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/devShakib015/devShakib015/output/github-snake.svg">
-</picture>
-</div>
+**A number you cannot check is a claim in a larger font.** Every figure on my
+site is read live from the source that owns it — pub.dev for scores and
+downloads, the registry for versions — so it cannot drift from the truth.
 
-<div align="center">
+**Say what is not verified.** `vitals` reads health data reliably and its write
+path is not yet confirmed on a real device. That is in the README, because
+somebody would otherwise find out with their own weight history.
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06D6DB,50:7C6FFF,100:09090E&height=120&section=footer"/>
+**Never render a zero.** A package with no downloads yet should show nothing,
+not "0 downloads". The absence is honest; the zero is misleading.
 
-</div>
+---
+
+<p align="center">
+  <a href="https://devshakib.jumyn.com">Website</a> ·
+  <a href="https://devshakib.jumyn.com/blog">Blog</a> ·
+  <a href="https://x.com/devshakib015">X</a> ·
+  <a href="mailto:devshakib015@gmail.com">Email</a>
+  <br/><br/>
+  <sub>Open to freelance and consulting work.</sub>
+</p>
