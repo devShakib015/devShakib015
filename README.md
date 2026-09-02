@@ -100,6 +100,8 @@ not "0 downloads". The absence is honest; the zero is misleading.
   <a href="https://devshakib.jumyn.com">Website</a> ·
   <a href="https://devshakib.jumyn.com/blog">Blog</a> ·
   <a href="https://x.com/devshakib015">X</a> ·
+  <a href="https://www.reddit.com/user/Shakib015/">Reddit</a> ·
+  <a href="https://orcid.org/0009-0004-5489-9717">ORCID</a> ·
   <a href="mailto:devshakib015@gmail.com">Email</a>
   <br/><br/>
   <sub>Open to freelance and consulting work.</sub>
