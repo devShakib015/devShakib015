@@ -9,9 +9,10 @@
 </p>
 
 <p align="center">
-  <a href="https://pub.dev/publishers/jumyn.com/packages"><img alt="pub.dev packages" src="https://img.shields.io/badge/pub.dev-12%20packages%20%C2%B7%20all%20160%2F160-3DDC97?style=flat-square&labelColor=060B0A"></a>
+  <a href="https://pub.dev/publishers/jumyn.com/packages"><img alt="pub.dev packages" src="https://img.shields.io/badge/pub.dev-13%20packages%20%C2%B7%20all%20160%2F160-3DDC97?style=flat-square&labelColor=060B0A"></a>
   <a href="https://devshakib.jumyn.com/apps"><img alt="apps" src="https://img.shields.io/badge/apps-free%20%26%20open%20source-2CC5C0?style=flat-square&labelColor=060B0A"></a>
-  <a href="https://devshakib.jumyn.com/blog"><img alt="writing" src="https://img.shields.io/badge/writing-142%20posts-4FC3E8?style=flat-square&labelColor=060B0A"></a>
+  <a href="https://marketplace.visualstudio.com/publishers/devShakib"><img alt="VS Code extensions" src="https://img.shields.io/badge/VS%20Code-7%20extensions-3DDC97?style=flat-square&labelColor=060B0A"></a>
+  <a href="https://devshakib.jumyn.com/blog"><img alt="writing" src="https://img.shields.io/badge/writing-151%20posts-4FC3E8?style=flat-square&labelColor=060B0A"></a>
 </p>
 
 ---
@@ -26,8 +27,8 @@ bits you can check.
 
 ## Packages
 
-Twelve on pub.dev under the [jumyn.com](https://pub.dev/publishers/jumyn.com/packages)
-publisher. **All twelve score 160/160 pub points** — that is pub.dev's own
+Thirteen on pub.dev under the [jumyn.com](https://pub.dev/publishers/jumyn.com/packages)
+publisher. **All thirteen score 160/160 pub points** — that is pub.dev's own
 analyser, not a number I chose. MIT, no tracking, no paid tier.
 
 | Package | What it does | Platforms |
@@ -44,8 +45,9 @@ analyser, not a number I chose. MIT, no tracking, no paid tier.
 | [roomplan](https://pub.dev/packages/roomplan) | Scan a room with RoomPlan; get walls, doors and furniture with real dimensions | iOS |
 | [ar_quick_look](https://pub.dev/packages/ar_quick_look) | Put a USDZ model in the room using Apple's own AR viewer | iOS |
 | [cross_tab](https://pub.dev/packages/cross_tab) | Coordinate browser tabs: typed messages, presence, and electing exactly one to work | all six |
+| [document_pip](https://pub.dev/packages/document_pip) | Live Flutter widgets in a real always-on-top window, from Flutter Web, via Document Picture-in-Picture | Web |
 
-Source for all twelve: **[flutter_packages](https://github.com/devShakib015/flutter_packages)**.
+Source for all thirteen: **[flutter_packages](https://github.com/devShakib015/flutter_packages)**.
 
 ---
 
@@ -62,10 +64,28 @@ All MIT. No account, no telemetry, no subscription.
 
 ---
 
+## VS Code extensions
+
+Seven on the [VS Code Marketplace](https://marketplace.visualstudio.com/publishers/devShakib), all free and MIT.
+
+**[ds_usage](https://marketplace.visualstudio.com/items?itemName=devShakib.ds-usage)**: Claude usage limits in the status bar. Session and
+weekly percentages with reset times, read from the login Claude Code already keeps. One request every few
+minutes, shared by every window.
+
+**A theme family**, contrast measured at build time rather than eyeballed:
+[ds_retro](https://marketplace.visualstudio.com/items?itemName=devShakib.ds-retro) (green CRT) ·
+[ds_amber](https://marketplace.visualstudio.com/items?itemName=devShakib.ds-amber) (amber CRT) ·
+[ds_synthwave](https://marketplace.visualstudio.com/items?itemName=devShakib.ds-synthwave) (neon on indigo) ·
+[ds_blueprint](https://marketplace.visualstudio.com/items?itemName=devShakib.ds-blueprint) (chalk on navy) ·
+[ds_noir](https://marketplace.visualstudio.com/items?itemName=devShakib.ds-noir) (silver, one red, one gold) ·
+[ds_paper](https://marketplace.visualstudio.com/items?itemName=devShakib.ds-paper) (the light one: inks on warm paper)
+
+---
+
 ## Also on the site
 
 **98 browser tools** and **32 games** that run entirely client-side — nothing is
-uploaded, and they work with the network off. **142 posts** on Flutter,
+uploaded, and they work with the network off. **151 posts** on Flutter,
 Firebase, Cloud and AI.
 
 → [devshakib.jumyn.com](https://devshakib.jumyn.com)
@@ -102,6 +122,8 @@ not "0 downloads". The absence is honest; the zero is misleading.
   <a href="https://x.com/devshakib015">X</a> ·
   <a href="https://www.reddit.com/user/Shakib015/">Reddit</a> ·
   <a href="https://dev.to/devshakib">dev.to</a> ·
+  <a href="https://www.instagram.com/devshakib">Instagram</a> ·
+  <a href="https://www.youtube.com/@devShakib">YouTube</a> ·
   <a href="https://orcid.org/0009-0004-5489-9717">ORCID</a> ·
   <a href="mailto:devshakib015@gmail.com">Email</a>
   <br/><br/>
