@@ -11,7 +11,7 @@
 <p align="center">
   <a href="https://pub.dev/publishers/jumyn.com/packages"><img alt="pub.dev packages" src="https://img.shields.io/badge/pub.dev-14%20packages%20%C2%B7%20all%20160%2F160-3DDC97?style=flat-square&labelColor=060B0A"></a>
   <a href="https://devshakib.jumyn.com/apps"><img alt="apps" src="https://img.shields.io/badge/apps-free%20%26%20open%20source-2CC5C0?style=flat-square&labelColor=060B0A"></a>
-  <a href="https://marketplace.visualstudio.com/publishers/devShakib"><img alt="VS Code extensions" src="https://img.shields.io/badge/VS%20Code-7%20extensions-3DDC97?style=flat-square&labelColor=060B0A"></a>
+  <a href="https://marketplace.visualstudio.com/publishers/devShakib"><img alt="VS Code extensions" src="https://img.shields.io/badge/VS%20Code-9%20extensions-3DDC97?style=flat-square&labelColor=060B0A"></a>
   <a href="https://devshakib.jumyn.com/blog"><img alt="writing" src="https://img.shields.io/badge/writing-151%20posts-4FC3E8?style=flat-square&labelColor=060B0A"></a>
 </p>
 
@@ -67,7 +67,11 @@ All MIT. No account, no telemetry, no subscription.
 
 ## VS Code extensions
 
-Seven on the [VS Code Marketplace](https://marketplace.visualstudio.com/publishers/devShakib), all free and MIT.
+Nine on the [VS Code Marketplace](https://marketplace.visualstudio.com/publishers/devShakib), all free and MIT.
+
+**[ds_rules](https://marketplace.visualstudio.com/items?itemName=devShakib.ds-rules)**: a security linter for Firestore and Storage
+rules. Open writes, test mode left on, anyone-can-edit and unchecked uploads, flagged as you type — and quiet
+about the public reads and admin writes you meant.
 
 **[ds_usage](https://marketplace.visualstudio.com/items?itemName=devShakib.ds-usage)**: Claude usage limits in the status bar. Session and
 weekly percentages with reset times, read from the login Claude Code already keeps. One request every few
@@ -79,7 +83,8 @@ minutes, shared by every window.
 [ds_synthwave](https://marketplace.visualstudio.com/items?itemName=devShakib.ds-synthwave) (neon on indigo) ·
 [ds_blueprint](https://marketplace.visualstudio.com/items?itemName=devShakib.ds-blueprint) (chalk on navy) ·
 [ds_noir](https://marketplace.visualstudio.com/items?itemName=devShakib.ds-noir) (silver, one red, one gold) ·
-[ds_paper](https://marketplace.visualstudio.com/items?itemName=devShakib.ds-paper) (the light one: inks on warm paper)
+[ds_paper](https://marketplace.visualstudio.com/items?itemName=devShakib.ds-paper) (the light one: inks on warm paper) ·
+[ds_sepia](https://marketplace.visualstudio.com/items?itemName=devShakib.ds-sepia) (a darkroom print, tinted by hand)
 
 ---
 
