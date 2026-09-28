@@ -5,14 +5,16 @@
   <br/>
   <a href="https://devshakib.jumyn.com">devshakib.jumyn.com</a> ·
   <a href="https://pub.dev/publishers/jumyn.com/packages">pub.dev/jumyn.com</a> ·
-  <a href="mailto:devshakib015@gmail.com">devshakib015@gmail.com</a>
+  <a href="mailto:devshakib015@gmail.com">devshakib015@gmail.com</a> ·
+  <a href="https://github.com/devShakib015/devShakib015/blob/main/K-M-Shahriar-Hossain-Resume.pdf"><b>résumé (PDF)</b></a>
 </p>
 
 <p align="center">
+  <a href="https://github.com/devShakib015/devShakib015/blob/main/K-M-Shahriar-Hossain-Resume.pdf"><img alt="résumé PDF" src="https://img.shields.io/badge/r%C3%A9sum%C3%A9-PDF-3DDC97?style=flat-square&labelColor=060B0A"></a>
   <a href="https://pub.dev/publishers/jumyn.com/packages"><img alt="pub.dev packages" src="https://img.shields.io/badge/pub.dev-14%20packages%20%C2%B7%20all%20160%2F160-3DDC97?style=flat-square&labelColor=060B0A"></a>
   <a href="https://devshakib.jumyn.com/apps"><img alt="apps" src="https://img.shields.io/badge/apps-free%20%26%20open%20source-2CC5C0?style=flat-square&labelColor=060B0A"></a>
   <a href="https://marketplace.visualstudio.com/publishers/devShakib"><img alt="VS Code extensions" src="https://img.shields.io/badge/VS%20Code-9%20extensions-3DDC97?style=flat-square&labelColor=060B0A"></a>
-  <a href="https://devshakib.jumyn.com/blog"><img alt="writing" src="https://img.shields.io/badge/writing-151%20posts-4FC3E8?style=flat-square&labelColor=060B0A"></a>
+  <a href="https://devshakib.jumyn.com/blog"><img alt="writing" src="https://img.shields.io/badge/writing-152%20posts-4FC3E8?style=flat-square&labelColor=060B0A"></a>
 </p>
 
 ---
