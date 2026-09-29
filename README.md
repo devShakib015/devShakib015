@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://github.com/devShakib015/devShakib015/blob/main/K-M-Shahriar-Hossain-Resume.pdf"><img alt="résumé PDF" src="https://img.shields.io/badge/r%C3%A9sum%C3%A9-PDF-3DDC97?style=flat-square&labelColor=060B0A"></a>
-  <a href="https://pub.dev/publishers/jumyn.com/packages"><img alt="pub.dev packages" src="https://img.shields.io/badge/pub.dev-14%20packages%20%C2%B7%20all%20160%2F160-3DDC97?style=flat-square&labelColor=060B0A"></a>
+  <a href="https://pub.dev/publishers/jumyn.com/packages"><img alt="pub.dev packages" src="https://img.shields.io/badge/pub.dev-15%20packages%20%C2%B7%20all%20160%2F160-3DDC97?style=flat-square&labelColor=060B0A"></a>
   <a href="https://devshakib.jumyn.com/apps"><img alt="apps" src="https://img.shields.io/badge/apps-free%20%26%20open%20source-2CC5C0?style=flat-square&labelColor=060B0A"></a>
   <a href="https://marketplace.visualstudio.com/publishers/devShakib"><img alt="VS Code extensions" src="https://img.shields.io/badge/VS%20Code-9%20extensions-3DDC97?style=flat-square&labelColor=060B0A"></a>
   <a href="https://devshakib.jumyn.com/blog"><img alt="writing" src="https://img.shields.io/badge/writing-152%20posts-4FC3E8?style=flat-square&labelColor=060B0A"></a>
@@ -29,8 +29,8 @@ bits you can check.
 
 ## Packages
 
-Fourteen on pub.dev under the [jumyn.com](https://pub.dev/publishers/jumyn.com/packages)
-publisher. **All fourteen score 160/160 pub points** — that is pub.dev's own
+Fifteen on pub.dev under the [jumyn.com](https://pub.dev/publishers/jumyn.com/packages)
+publisher. **All fifteen score 160/160 pub points** — that is pub.dev's own
 analyser, not a number I chose. MIT, no tracking, no paid tier.
 
 | Package | What it does | Platforms |
@@ -49,8 +49,9 @@ analyser, not a number I chose. MIT, no tracking, no paid tier.
 | [cross_tab](https://pub.dev/packages/cross_tab) | Coordinate browser tabs: typed messages, presence, and electing exactly one to work | all six |
 | [document_pip](https://pub.dev/packages/document_pip) | Live Flutter widgets in a real always-on-top window, from Flutter Web, via Document Picture-in-Picture | Web |
 | [macos_grants](https://pub.dev/packages/macos_grants) | Full Disk Access, Accessibility and Screen Recording — and whether this copy of your app can hold a grant at all | macOS |
+| [flutter_health_check](https://pub.dev/packages/flutter_health_check) | `fhc`, a pre-release audit: store rules, leaked secrets, Firebase rules and stale packages, in one scored report | command line |
 
-Source for all fourteen: **[flutter_packages](https://github.com/devShakib015/flutter_packages)**.
+Source for all fifteen: **[flutter_packages](https://github.com/devShakib015/flutter_packages)**.
 
 ---
 
